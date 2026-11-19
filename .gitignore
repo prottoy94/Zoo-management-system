@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+
+# NuGet packages (restore with: nuget restore)
+packages/
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# OS files
+Thumbs.db
+.DS_Store
